@@ -1,6 +1,6 @@
 # Fastapi
 
-##Running the application
+### Running the application
 
 ```python
 git clone https://github.com/bombadeb/Fastapi.git
@@ -9,7 +9,7 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 
-##Sample Output
+### Sample Output
 ```python
 anirban@Anirbans-MacBook-Pro blog % python3 main.py
 INFO:     Started server process [19334]
