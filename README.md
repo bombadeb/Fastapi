@@ -7,7 +7,7 @@ git clone https://github.com/bombadeb/Fastapi.git
 cd  app
 pip3 install -r requirements.txt
 python3 main.py
-
+```
 
 ##Sample Output
 ```python
