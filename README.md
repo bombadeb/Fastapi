@@ -4,8 +4,8 @@
 
 ```python
 git clone https://github.com/bombadeb/Fastapi.git
-cd  app
 pip3 install -r requirements.txt
+cd  app
 python3 main.py
 ```
 
