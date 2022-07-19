@@ -1,4 +1,0 @@
-fastapi==0.78.0
-FastAPI-SQLAlchemy==0.2.1
-SQLAlchemy==1.4.39
-uvicorn==0.18.2
